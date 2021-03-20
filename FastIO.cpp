@@ -12,6 +12,9 @@ int main() {
     // use '\n' instead of endl to speed up output
 
     // code goes here
-
+//     int a, b;
+//     cin >> a >> b;
+//     cout << a + b << '\n';
+    
     return 0;
 }
