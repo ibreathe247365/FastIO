@@ -9,9 +9,9 @@ public class Main {
         // Always print a trailing "\n" and close the OutputWriter as shown at the end of your output
         
         // example:
-        int in = scan.nextInt();
-        out.print(in + " ");
-        out.print(in + "\n");
+//         int in = scan.nextInt();
+//         out.print(in + " ");
+//         out.print(in + "\n");
         
         out.close();
     }
