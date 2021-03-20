@@ -21,10 +21,10 @@ def main():
 
     # code goes here
     # example:
-    a, b = get_tuple_ints()
-    l = [a + b, a - b]
-    print(a + b)
-    print_iterable(l)
+#     a, b = get_tuple_ints()
+#     l = [a + b, a - b]
+#     print(a + b)
+#     print_iterable(l)
 
     pass
 
